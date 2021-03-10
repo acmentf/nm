@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="16" viewBox="0 0 16 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="0.031" x2="1" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2b2bf9"/>
+      <stop offset="1" stop-color="#1b74d9"/>
+    </linearGradient>
+  </defs>
+  <g id="LOL图标" transform="translate(-133 -258)">
+    <rect id="矩形_395" data-name="矩形 395" class="cls-1" width="16" height="16" transform="translate(133 258)"/>
+    <g id="LOL" transform="translate(-197 128)">
+      <rect id="矩形_74" data-name="矩形 74" class="cls-2" width="14" height="14" rx="3" transform="translate(331 131)"/>
+      <path id="路径_496" data-name="路径 496" class="cls-3" d="M42.879,42.879l.331.331.336.336.331.331v3.667l-1,1v.336h5.333l.667-2.333-.331.331-.336.336-.331.331H45.209V43.877l.336-.331.336-.336.331-.331Z" transform="translate(292.121 92.122)"/>
+    </g>
+  </g>
+</svg>

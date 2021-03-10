@@ -1,4 +1,4 @@
-# Ti电竞
+# 纳米电竞
 
 ## Project setup
 ```
